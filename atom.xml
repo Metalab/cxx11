@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[C++ Exploration]]></title>
+  <link href="http://Metalab.github.com/cxx11/atom.xml" rel="self"/>
+  <link href="http://Metalab.github.com/cxx11/"/>
+  <updated>2012-11-06T04:35:59+01:00</updated>
+  <id>http://Metalab.github.com/cxx11/</id>
+  <author>
+    <name><![CDATA[Metalab]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[title]]></title>
+    <link href="http://Metalab.github.com/cxx11/blog/2012/11/06/title/"/>
+    <updated>2012-11-06T04:35:00+01:00</updated>
+    <id>http://Metalab.github.com/cxx11/blog/2012/11/06/title</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>

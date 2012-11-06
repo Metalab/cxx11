@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://Metalab.github.com/cxx11/blog/2012/11/06/title/</loc>
+        <lastmod>2012-11-06T04:35:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Metalab.github.com/cxx11/blog/archives/</loc>
+        <lastmod>2012-11-06T04:35:12+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://Metalab.github.com/cxx11/</loc>
+        <lastmod>2012-11-06T04:35:12+01:00</lastmod>
+    </url>
+</urlset>
